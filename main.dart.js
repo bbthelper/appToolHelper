@@ -36042,7 +36042,7 @@ if(i.a.a.length===0){n.pX("\u8bf7\u8f93\u5165\u670d\u52a1\u5668IP\u5730\u5740")
 s=1
 break}n.ac(new A.aez(n))
 p=4
-m=A.k1("ws://"+i.a.a+":"+n.f.a.a,0,null)
+m=A.k1("wss://"+i.a.a+":"+n.f.a.a,0,null)
 l=A.aye(m,null)
 i=l.f
 i===$&&A.a()
